@@ -1,13 +1,10 @@
 #Thank You for using this code.
 
-#This Code is given by Author by personal means and not pulled from any Repository of Git, Any changes made to this code is not the responsibility of the Author.
+#Any changes made to this code is not the responsibility of the Author.
 
 #This Code is for Educational Purpose Only, The author is not responsible for any misuse of this code,or for any loss or damage caused by this code.
 
 #This code is not meant for "UNETHICAL HACKING", In any case of misuse, the user is solely responsible.
-
-#Author: "Vikas_Gowda_H.D/Defcon_Scripters"
-
 
 import smtplib
 from email.mime.text import MIMEText
