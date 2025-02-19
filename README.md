@@ -20,6 +20,7 @@ Engages Auto-Mode – Sends multiple emails with controlled timing—because rea
 ✅ Create a separate Gmail account – Never mix business with pleasure.
 ✅ Turn on Two-Step Verification – Weak security is for NPCs.
 ✅ Generate an App Password – Because alpha coders don’t get blocked by Gmail.
+And dont forget to create the Environment file and merge with this code, Im not stupid to give my email id and password, create your own dude
 
 ⚠️ WARNING: This script is a tool, not a toy. Use it wisely, stay ethical, and don’t be the guy who misuses power.
 
